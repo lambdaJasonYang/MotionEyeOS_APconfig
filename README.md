@@ -7,7 +7,9 @@ Default:
 ssid=motioneyessid  
 wpa_passphrase=12345678
 
-Edit the field in hostapd.conf for custom ssid name and password
+Edit the field in hostapd.conf for custom ssid name and password  
+
+Go to browser and enter 192.168.27.1 into the URL bar to access MotionEyeOS web interface after connecting to the Access Point.
 
 # Theory  
 
