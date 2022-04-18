@@ -7,7 +7,7 @@ Default:
 ssid=motioneyessid  
 wpa_passphrase=12345678
 
-Edit the field in hostapd.conf  
+Edit the field in hostapd.conf for custom ssid name and password
 
 # Theory  
 
