@@ -5,7 +5,7 @@ Simply drag the files in the repo into raspberry pi boot folder which contains t
 
 Default:  
 ssid=motioneyessid  
-wpa_passphrase=1234567  
+wpa_passphrase=12345678
 
 Edit the field in hostapd.conf  
 
