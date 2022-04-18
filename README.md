@@ -1,5 +1,5 @@
 # MotionEyeOS_APconfig
-Motion Eye OS V20200606 Access Point Configuration, Without Internet  
+Motion Eye OS V20200606 Access Point Configuration, Without Internet for the Raspberry Pi
 
 Simply drag the files in the repo into raspberry pi boot folder which contains things like .elf file and kernel.img.  
 
